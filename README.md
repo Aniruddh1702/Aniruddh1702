@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Aniruddh 👋
 
-<!--
-**Aniruddh1702/Aniruddh1702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### First-year Developer | Open Source Enthusiast
 
-Here are some ideas to get you started:
+I'm a developer who enjoys turning ideas into
+working products and solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring:
+- Full-stack development
+- TypeScript and JavaScript
+- C++ and Data Structures
+- Open-source software development
+
+### Technologies
+- JavaScript
+- TypeScript
+- C++
+- React
+- Node.js
+- MongoDB
+- Git & GitHub
+
+### Current Goals
+- Contribute to meaningful open-source projects.
+- Learn from experienced developers.
+- Participate in Google Summer of Code.
+- Build software that solves real problems.
+
+### Connect
+- GitHub: https://github.com/Aniruddh1702
